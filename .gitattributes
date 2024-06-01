@@ -1,0 +1,5 @@
+# Mantener LF para archivos .json
+*.json text eol=lf
+
+# Convertir automáticamente otros archivos a CRLF en Windows
+* text=auto
