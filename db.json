@@ -1,0 +1,70 @@
+{
+  "users": [
+    {
+      "id": "515ff980-b566-11ee-80fd-b1f10588da2c",
+      "password": "$2b$10$DpMgdfjo2d9uRet3YqVDru9pEol06mbi.8DXQCzKaqOmJcBxKHLiK",
+      "avatar": "https://gravatar.com/avatar/2d2290ffff0543380907e4d5ce91293c",
+      "email": "correo@ejemplo.com"
+    },
+    {
+      "id": "40c640e0-b708-11ee-ac02-4d7a8ff956ea",
+      "password": "$2b$10$nLaLKCuJ00mdKia3jyw8l.5xecJ8Mb5k/pJLSMSdQkGVW3oeIR2IG",
+      "avatar": "https://gravatar.com/avatar/40ea2a25c2000b9ba1c545dd7638a0fb",
+      "email": "mouse@ejemplo.com"
+    },
+    {
+      "id": "81d19d00-b70d-11ee-ac02-4d7a8ff956ea",
+      "password": "$2b$10$D0J8OO04VclJddALyTJY0esN88jewtnfrUiKuDGVi12acJIgkY/pq",
+      "avatar": "https://gravatar.com/avatar/f2f69b745bf02f7db00de144e9665963",
+      "email": "mousee@ejemplo.com"
+    },
+    {
+      "id": "3f37a2e0-b70e-11ee-ac02-4d7a8ff956ea",
+      "password": "$2b$10$T33eF9G5E73yQi4jwHy4WOUQahQ/kvpLqZs2XBTEWC5p768h9H7Za",
+      "avatar": "https://gravatar.com/avatar/1429a0a60d6f5fd73f0f98c28b7255e8",
+      "email": "holaa@ejemplo.com"
+    },
+    {
+      "id": "a6444060-b70e-11ee-ac02-4d7a8ff956ea",
+      "password": "$2b$10$mi4x5/Kfdi8uVui0XzXV/ON9SYRGJJTiUGjgZBDHtVqodspufMAQy",
+      "avatar": "https://gravatar.com/avatar/94b60fe625ef7795ba5b6413f5182aee",
+      "email": "hola@ejemplo.com"
+    },
+    {
+      "id": "4ff5a610-b711-11ee-ac02-4d7a8ff956ea",
+      "password": "$2b$10$.yolXrgb7SH67ao0HcPX4eV8lK0eyyDtNxV.ImF3OIKA7flRQO8qS",
+      "avatar": "https://gravatar.com/avatar/0e638dee4cc7a389b88e1d20d16b9989",
+      "email": "holaaA@ejemplo.com"
+    },
+    {
+      "id": "a0fca5f0-b96d-11ee-a055-2dbdd6f16981",
+      "password": "$2b$10$NQrC1pqxWF7kYkHQ673LFeWhVeZzy7UCwbY5/4p3Efa/DoXO8AUSS",
+      "avatar": "https://gravatar.com/avatar/3bf6ebf5de39a8a604db0155b998b927",
+      "email": "emilian@gmail.com"
+    },
+    {
+      "id": "6747c8c0-bac7-11ee-bbdb-b95bd1679a7e",
+      "password": "$2b$10$EyAqsqPh0f8oJF664edJt.JWaQ9E8skXmHaEiUgNPWd9Pq1Gx7OVy",
+      "avatar": "https://gravatar.com/avatar/31d763f0c96774c985c2d18cce56520d",
+      "email": "aaa@hotmail.com"
+    },
+    {
+      "id": "f46689f0-bba6-11ee-94aa-4b2532b1b26d",
+      "password": "$2b$10$etBZ/.B0or7Dp9X1OS1NxOl4bh16Pf3V6U1JGiQlelLo7w3vRPcba",
+      "avatar": "https://gravatar.com/avatar/e28f3bc61577708040fee4e537bcdba6",
+      "email": "eee@hotmai.com"
+    },
+    {
+      "id": "76781da0-bba7-11ee-8814-07b2cfc44e78",
+      "password": "$2b$10$SDShHTFXcrNXuCoh8if88eYlnIFuqG/nuXSrmTLRV1ID.L0ImN2we",
+      "avatar": "https://gravatar.com/avatar/d5830758e6cde898b90af5b77f20c217",
+      "email": "ad@hotmail.com"
+    },
+    {
+      "id": "a0c917d0-bba7-11ee-8275-639931c6d39d",
+      "password": "$2b$10$ilgzQ6o48y9TWUd0ZAmQvu6vUSXNXc1C008PB.7FGi9aGxdOdKB7O",
+      "avatar": "https://gravatar.com/avatar/de177b0353fe9c0cea9214dd575cac5c",
+      "email": "rt@hotmail.com"
+    }
+  ]
+}
