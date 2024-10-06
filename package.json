@@ -4,10 +4,10 @@
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
-    "dev": "nodemon index.js --ignore db.json",
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "npm install --omit=dev",
-    "start": "node index.js"
+    "deploy": "vercel --prod -t xccwd691OiycagPFmCNy7ndl",
+    "start:api": "NODE_ENV=production node index.js",
+    "dev:api": "nodemon index.js --ignore db.json",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
@@ -22,6 +22,9 @@
     "dotenv": "^16.4.1",
     "express": "^4.18.2",
     "express-jwt": "^5.3.1",
+    "firebase": "^10.12.2",
+    "firebase-admin": "^12.1.1",
+    "firebase-functions": "^5.0.1",
     "graphql": "^15.8.0",
     "jsonwebtoken": "^9.0.2",
     "lowdb": "^1.0.0",

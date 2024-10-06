@@ -1,14 +1,22 @@
 {
     "version": 2,
     "builds": [
-      { "src": "index.js", "use": "@vercel/node" }
+      { 
+        "src": "index.js", 
+        "use": "@vercel/node", 
+        "config": { "includeFiles": ["dist/**"]} 
+      }
     ],
     "routes": [
-      { "src": "/(.*)", "dest": "index.js" }
-    ],
-     "env": {
-      "JWT_SECRET":"@JWT_SECRET",
-      "API_KEY_FORECAST":"@API_KEY_FORECAST",
-      "API_KEY_WEATHER":"@API_KEY_WEATHER"
-    }
+      {
+        "headers": {
+          "Access-Control-Allow-Origin": "*",
+          "Access-Control-Allow-Methods": "GET, POST, PUT, DELETE, OPTIONS",
+          "Access-Control-Allow-Headers": "X-Requested-With, Content-Type, Accept"
+        },
+        "src": "/.*", 
+        "dest": "index.js" 
+      }
+    ]
   }
+  
